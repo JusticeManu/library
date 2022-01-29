@@ -118,15 +118,6 @@ export const allresources = [
     type: "docs",
     url: CSSFile,
     image: CSS3,
-  },
-  {
-    id: UUID(),
-    resource: "doc",
-    description: "High performance javascript ",
-    author: "Janet Blay",
-    date: "03/1990",
-    type: "docs",
-    url: CSSFile,
-    image: CSS6,
-  },
+  }
+ 
 ];

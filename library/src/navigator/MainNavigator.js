@@ -8,9 +8,8 @@ const MainNavigator = () => {
   return (
     <Switch>
       
-      <Route path='/' component={Welcome} exact />
-
-      <Route path='/dashboard' component={Dashboard} />
+  
+      <Route path='/' component={Dashboard} />
     </Switch>
   );
 };
