@@ -1,6 +1,7 @@
 # Library Page Project
 
-![alt text](https://github.com/[JusticeManu]/[library]/blob/[main]/BothOfUs.jpg?raw=true)
+![BothOfUs](https://user-images.githubusercontent.com/44110484/151699562-913736e5-8253-418f-8c0a-09722f18965c.jpg)
+
 
 ### Instructions for code execution
 
