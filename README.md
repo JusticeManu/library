@@ -27,4 +27,9 @@ Concerning the assignment i didnt face any challenge above my capability.This is
 in my career as a developer.
 The challenges i faced during the developmental stage of the  assignment was concerned with git and the deployment. I created the project and 
 pushed to git repo. I realised that there was this large file in the project folder which exceed the github file size. The was still in the current head of git,
-therefore i couldnt make extra pushes. I had to find a way to resolve this issue. Some helpful link i visited was [Click here](https://guides.github.com/introduction/flow/index.html)
+therefore i couldnt make extra pushes. I had to find a way to resolve this issue. Some helpful link i visited was [Click here](https://blog.tinned-software.net/remove-files-from-git-history/)
+
+
+### Following clean code standard
+
+Clean code standard was used in this project
